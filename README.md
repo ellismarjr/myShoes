@@ -3,7 +3,9 @@
 </h1>
 
 ## :iphone: Mobile preview
-![](https://github.com/ellismarjr/picpay-clone/blob/master/preview/myShoes.gif)
+<p align="center">
+  <img height="600" src="https://github.com/ellismarjr/myShoes/blob/master/preview/myShoes.gif">
+</p>
 
 <h4 align="center">
   App build using React Native.
