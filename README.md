@@ -4,7 +4,11 @@
 
 ## :iphone: Mobile preview
 <p align="center">
-  <img height="600" src="https://github.com/ellismarjr/myShoes/blob/master/preview/myShoes.gif">
+  <img height="500" src="https://github.com/ellismarjr/gofinances/blob/main/previews/page01.png">
+  <img height="500" src="https://github.com/ellismarjr/gofinances/blob/main/previews/page02.png">
+  <img height="500" src="https://github.com/ellismarjr/gofinances/blob/main/previews/page03.png">
+  <img height="500" src="https://github.com/ellismarjr/gofinances/blob/main/previews/page04.png">
+  <img height="500" src="https://github.com/ellismarjr/gofinances/blob/main/previews/page05.png">
 </p>
 
 <h4 align="center">
@@ -21,29 +25,30 @@
 This project was developed in the studies purpose with the following technologies:
 
 - [React Native](https://reactnative.dev/)
+- [Expo](https://docs.expo.dev/)
+- [Expo Auth Session](https://docs.expo.dev/versions/latest/sdk/auth-session/)
+- [Expo Apple Session](https://docs.expo.dev/versions/latest/sdk/apple-authentication/)
 - [React Navigation](https://reactnavigation.org/)
 - [styled-components](https://www.styled-components.com/)
-- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+- [react-hook-form](https://react-hook-form.com/)
+- [date-fns](https://date-fns.org/)
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Yarn v1.22.4](https://yarnpkg.com/) or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), Expo, [Yarn v1.22.4](https://yarnpkg.com/) or higher installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/ellismarjr/myShoes.git
+$ git clone https://github.com/ellismarjr/gofinances.git
 
 # Go into the repository
-$ cd myShoes
+$ cd gofinances
 
 # Install dependencies
 $ yarn
 
-# Execute Metro Bundler
-$ yarn start
-
-# Execute App
-$ yarn androind || react-native run-android
+# Execute Expo
+$ expo start
 ```
 
 
